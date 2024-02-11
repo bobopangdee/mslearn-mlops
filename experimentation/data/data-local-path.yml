@@ -1,0 +1,5 @@
+$schema: https://azuremlschemas.azureedge.net/latest/assets.schema.json
+name: diabetes-dev-folder
+version: 1
+path: .
+description: Diabetes dataset for development
